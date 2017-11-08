@@ -8,6 +8,10 @@
         "source": "D:\\Jobsheet\\Shushme\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
+        "merged": "D:\\Jobsheet\\Shushme\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "D:\\Jobsheet\\Shushme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.8.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
         "merged": "D:\\Jobsheet\\Shushme\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
         "source": "D:\\Jobsheet\\Shushme\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_select_dialog_material.xml"
     },
@@ -152,8 +156,16 @@
         "source": "D:\\Jobsheet\\Shushme\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
+        "merged": "D:\\Jobsheet\\Shushme\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "D:\\Jobsheet\\Shushme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.8.0\\res\\layout\\place_autocomplete_item_prediction.xml"
+    },
+    {
         "merged": "D:\\Jobsheet\\Shushme\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "D:\\Jobsheet\\Shushme\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Jobsheet\\Shushme\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_progress.xml",
+        "source": "D:\\Jobsheet\\Shushme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.8.0\\res\\layout\\place_autocomplete_progress.xml"
     },
     {
         "merged": "D:\\Jobsheet\\Shushme\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
@@ -162,5 +174,9 @@
     {
         "merged": "D:\\Jobsheet\\Shushme\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
         "source": "D:\\Jobsheet\\Shushme\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Jobsheet\\Shushme\\app\\build\\intermediates\\res\\merged\\debug\\layout\\place_autocomplete_fragment.xml",
+        "source": "D:\\Jobsheet\\Shushme\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-places\\9.8.0\\res\\layout\\place_autocomplete_fragment.xml"
     }
 ]
